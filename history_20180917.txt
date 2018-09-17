@@ -1,0 +1,111 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  date
+    4  .....
+    5  3+4
+    6  a=11
+    7  a
+    8  echo a
+    9  echo $a
+   10  A=22
+   11  echo $A
+   12  echo $a
+   13  echo $a+$A
+   14  man
+   15  echo $(a+A)
+   16  echo $((a+A))
+   17  echo $(($a+$A))
+   18  man echo
+   19  echo --version
+   20  echo --elp
+   21  echo --help
+   22  man echo
+   23  printf
+   24  printf $A
+   25  echo $A
+   26  printf $A\n
+   27  printf $A\\n
+   28  printf \\t$A\\n
+   29  printf \\t$A\\t$a\\n
+   30  date
+   31  cal
+   32  cal 2018
+   33  echo $0
+   34  cal 0
+   35  cal 1
+   36  echo $0
+   37  man bash
+   38  man sh
+   39  man csh
+   40  man bash
+   41  ls
+   42  man ls
+   43  ls /
+   44  ls -l
+   45  pwd
+   46  ls -l /
+   47  ls /
+   48  pwd
+   49  ls /
+   50  ls
+   51  ls /home
+   52  ls /home/user/user
+   53  ls /home/user/
+   54  ls
+   55  ped
+   56  c
+   57  pr
+   58  man pr
+   59  date
+   60  PS1=$
+   61  ls
+   62  ls -l 
+   63  ls Desktop/
+   64  ls Documents/
+   65  ls Documents/MATLAB/
+   66  ls Documents/MATLAB/SupportPackages/
+   67  ls Documents/MATLAB/SupportPackages/R2017b/
+   68  tree
+   69  tracepath
+   70  tracepath gmail.com
+   71  dig gmail.com
+   72  uname 
+   73  df 
+   74  ls /dev/
+   75  ls -s /dev/
+   76  ls -l /dev/
+   77  df 
+   78  df -h
+   79  du 
+   80  pwd
+   81  du -hs
+   82  man du
+   83  man  df
+   84  free
+   85  free -h
+   86  lsb_release 
+   87  lsb_release -a
+   88  dste
+   89  date
+   90  firefox 
+   91  sdsd
+   92  sd
+   93  uname
+   94  man uname
+   95  uname -a
+   96  echo $0
+   97  sh
+   98  echo $0
+   99  whoami
+  100  who
+  101  pwd
+  102  man pwd
+  103  ls
+  104  ls -l
+  105  ls
+  106  ls -a
+  107  ls -la
+  108  ls -al
+  109  ls
+  110  history
+  111  history > history_20180917.txt
