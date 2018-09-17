@@ -109,3 +109,146 @@
   109  ls
   110  history
   111  history > history_20180917.txt
+  112  ls
+  113  cat history_20180917.txt 
+  114  ls -al
+  115  man who
+  116  who
+  117  whoami
+  118  pwd
+  119  ls
+  120  ls -l
+  121  cd Music/
+  122  pwd
+  123  ls
+  124  ls -l
+  125  ls a
+  126  ls -a
+  127  ls -la
+  128  pwd
+  129  cd .
+  130  pwd
+  131  cd ..
+  132  pwd
+  133  ls -la
+  134  pwd
+  135  cd .
+  136  pwd
+  137  cd ..
+  138  pwd
+  139  ls -la
+  140  cd .
+  141  ls -la
+  142  pwd
+  143  cd ..
+  144  pwd
+  145  ls -la
+  146  cd .
+  147  pwd
+  148  cd ..
+  149  pwd
+  150  cd /home/user
+  151  cd ..
+  152  pwd
+  153  cd ~
+  154  pwd
+  155  cd /
+  156  pwd
+  157  cd
+  158  pwd
+  159  cd ../../
+  160  pwd
+  161  cd home/user/
+  162  pwd
+  163  mkdir ManaMape
+  164  ls
+  165  ls -l
+  166  cd ManaMape/
+  167  pwd
+  168  ls
+  169  ls -la
+  170  cd ..
+  171  pwd
+  172  ls -la
+  173  cd ManaMape/
+  174  ls -la
+  175  cd ..
+  176  pwd
+  177  rmdir ManaMape/
+  178  ls -l
+  179  rmdir ManaMape/
+  180  mkdir ManaMape
+  181  cd ManaMape/
+  182  mkdir ManaPapildusMape
+  183  cd ManaPapildusMape/
+  184  pwd
+  185  cd
+  186  ls
+  187  rmdir ManaMape/
+  188  man rmdir
+  189  man rm
+  190  rm -r ManaMape/
+  191  ls
+  192  man echo
+  193  echo "Teksts"
+  194  echo "Teksts
+teksts
+teksts
+"
+  195  echo "Teksts\nTeksts\nTeksts"
+  196  man echo
+  197  echo -e "Teksts\nTeksts\nTeksts"
+  198  man echo
+  199  echo "Teksts" > fails1.txt
+  200  ls -l
+  201  cat fails1.txt 
+  202  cd /
+  203  ls -l
+  204  cd bin/
+  205  ls -l
+  206  cat zcat 
+  207  ls -l
+  208  cat sleep 
+  209  cat /home/user/fails1.txt 
+  210  cat sleep 
+  211  cd
+  212  ls -l
+  213  echo "Cits teksts" > fails1.txt
+  214  ls -l
+  215  cat fails1.txt 
+  216  echo "Teksts" > fails1.txt
+  217  cat fails1.txt 
+  218  echo "Cits teksts" >> fails1.txt
+  219  cat fails1.txt 
+  220  ls -l
+  221  chmod 500 fails1.txt 
+  222  ls -l
+  223  echo "Pavisam cits teksts" > fails1.txt
+  224  echo "Cits teksts" >> ../fails1.txt
+  225  pwd
+  226  nano fails1.txt 
+  227  ls -l
+  228  cp fails2.txt fails3.txt
+  229  ls -l
+  230  mv fails1.txt Music/
+  231  ls -l
+  232  cd Music/
+  233  ls -l
+  234  cd ..
+  235  ls
+  236  mv fails*.txt Music/
+  237  ls
+  238  cd Music/
+  239  ls
+  240  mv fails3.txt fails4.txt
+  241  ls
+  242  mv fails1.txt ../fails101.txt
+  243  ls
+  244  cd ..
+  245  ls
+  246  mv Music/*.txt ./
+  247  ls
+  248  rm fails*.txt
+  249  ls
+  250  history
+  251  history > history_20180917.txt 
