@@ -1,0 +1,57 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  echo -e "mkdir Mape\ncd Mape" > create_in.sh
+    4  ls
+    5  ls -l
+    6  cat create_in.sh 
+    7  create_in
+    8  create_in.sh
+    9  echo $PATH
+   10  whereis cd
+   11  whereis firefox
+   12  pwd
+   13  PATH="/usr/local/anaconda3/bin:/opt/intelFPGA_lite/17.1/quartus/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/home/user"
+   14  echo $PATH
+   15  create_in.sh
+   16  echo $PATH
+   17  ls -l
+   18  chmod 764 create_in.sh 
+   19  ls -l
+   20  create_in
+   21  create_in.sh 
+   22  ls 
+   23  echo $PATH
+   24  ls 
+   25  PATH=$PATH:~/Mape
+   26  echo $PATH
+   27  /home/user/create_in.sh 
+   28  ./create_in.sh 
+   29  nano create_in.sh 
+   30  create_in.sh 
+   31  ls -l
+   32  cd Mape
+   33  ls -l
+   34  cd ..
+   35  cat create_in.sh 
+   36  nano create_in.sh 
+   37  ls /usr/bin/bash
+   38  ls /user/bin/bash
+   39  cd /usr/
+   40  cd /bin/
+   41  ls -l
+   42  ls -l | grep bash 
+   43  cd
+   44  nano create_in.sh 
+   45  pwd
+   46  ls -l
+   47  git clone https://github.com/tatusmatrix/RTR105
+   48  ls -l
+   49  cd RTR105
+   50  ls -l
+   51  nano README.md 
+   52  pwd
+   53  ls -l
+   54  nano README.md 
+   55  nano git-upload
+   56  ls -l
+   57  history > history_20180918.txt
