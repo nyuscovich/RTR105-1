@@ -1,0 +1,56 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  echo "mkdir Mape"
+    4* 
+    5  ls
+    6  cat mans_skripts.sh 
+    7  nano mans_skripts.sh 
+    8  ls -l
+    9  cat mans_skripts.sh 
+   10  echo $PATH
+   11  pwd
+   12  PATH=$PATH:~
+   13  echo $PATH
+   14  ls -l
+   15  chmod 764 mans_skripts.sh 
+   16  ls -l
+   17  mans_skripts.sh 
+   18  ls -l
+   19  cd Mape/
+   20  ls -l
+   21  cd ..
+   22  cd
+   23  pwd
+   24  cat mans_skripts.sh 
+   25  cat /bin/ls
+   26  ls
+   27  cat /bin/ls
+   28  ls
+   29  nano mans_skripts.sh 
+   30  mans_skripts.sh 
+   31  ls
+   32  pwd
+   33  /home/user/mans_skripts.sh 
+   34  ls
+   35  ./mans_skripts.sh 
+   36  ~/mans_skripts.sh 
+   37  git clone https://github.com/tatusmatrix/RTR105
+   38  ls -l
+   39  cd RTR105/
+   40  pwd
+   41  wd
+   42  pwd
+   43  ls -l
+   44  nano README.md 
+   45  pwd
+   46  ls -l
+   47  nano README.md 
+   48* 
+   49  ls -l
+   50  git clone https://github.com/tatusmatrix/RTR105       ,
+   51  history
+   52  pwd
+   53  ls -l
+   54  nano git-upload 
+   55  ls -l
+   56  history > history_20180919.txt
