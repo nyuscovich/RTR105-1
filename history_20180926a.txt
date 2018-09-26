@@ -1,0 +1,72 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  pwd
+    4  whoami
+    5  ls
+    6  ls -l
+    7  ls
+    8  ls -l
+    9  nano mans_skripts.sh
+   10  ls -l
+   11  cat mans_skripts.sh 
+   12  ls
+   13  history
+   14  cat /bin/history
+   15  cat /bin/ls
+   16  ls
+   17  echo $PATH
+   18  echo $path
+   19  echo $PATH
+   20  pwd
+   21  ls -l
+   22  ./mans_skripts.sh
+   23  pwd
+   24  /home/user/mans_skripts.sh
+   25  ~/mans_skripts.sh
+   26  chmod 764 mans_skripts.sh 
+   27  ls -l
+   28  echo $PATH
+   29  pwd
+   30  PATH=$PATH:~
+   31  pwd
+   32  echo $PATH
+   33  ls -l
+   34  mans_skripts.sh 
+   35  ls -l
+   36  mans_skripts.sh 
+   37  git clone https://github.com/tatusmatrix/RTR105
+   38  ls -l
+   39  mv mans_skripts.sh RTR105/
+   40  ls -l
+   41  cd RTR105/
+   42  ls -l
+   43  nano README.md 
+   44  history 
+   45  nano README.md 
+   46  history 
+   47  ls /bin/bash
+   48  ls -l /bin/bash
+   49  cat /bin/bash
+   50  pwd
+   51  ls -l /bin/bash
+   52  man echo
+   53  echo $PATH
+   54  /bin/ls
+   55  ls
+   56  /bin/ls
+   57  echo $PATH
+   58  PATH=$PATH/~/RTR105
+   59  echo $PATH
+   60  PATH=$PATH:~/RTR105
+   61  echo $PATH
+   62  PATH=/usr/local/anaconda3/bin:/opt/intelFPGA_lite/17.1/quartus/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games
+   63  echo $PATH
+   64  PATH=PATH
+   65  echo $PATH
+   66  ls
+   67* PATH=/usr/local/anaconda3/bin:/opt/intelFPGA_lite/17.1/quartus/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/gam
+   68  ls
+   69  ls -l
+   70  nano git-upload
+   71  ls -l
+   72  history > history_20180926a.txt
