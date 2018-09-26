@@ -1,0 +1,12 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  idle &
+    4  ls -l
+    5  rm a.py 
+    6  git clone https://github.com/tatusmatrix/RTR105
+    7  ls -l
+    8  cd RTR105/
+    9  ls -l
+   10  firefox &
+   11  nano dgr_20180926.py
+   12  history > history_20180926.txt
