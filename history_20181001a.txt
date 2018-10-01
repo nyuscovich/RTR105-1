@@ -1,0 +1,20 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  history
+    4  pwd
+    5  ls -l
+    6  pwd
+    7  ls -l
+    8  cd /
+    9  pwdf
+   10  pwd
+   11  ~/RTR105/mans_skripts.sh 
+   12  cd
+   13  cd RTR105/
+   14  ls -l
+   15  nano README.md 
+   16  pwd
+   17  ls -l
+   18  history > history_20181001a.txt
+   19  ls -l
+   20  history > history_20181001a.txt
