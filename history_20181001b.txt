@@ -1,0 +1,91 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  whoami
+    4  who
+    5  ls
+    6  pwd
+    7  ls
+    8  whereis ls
+    9  cat /bin/ls
+   10  whereis ls
+   11  nano mans_skripts.sh
+   12  ls -l
+   13  cat mans_skripts.sh 
+   14  cat /bin/ls
+   15  cat mans_skripts.sh 
+   16  ls
+   17  ./mans_skripts.sh
+   18  ls -l
+   19  ./mans_skripts.sh
+   20  ~/mans_skripts.sh
+   21  ls
+   22  /home/user/mans_skripts.sh
+   23  mans_skripts.sh
+   24  ls -l
+   25  chmod 764 mans_skripts.sh 
+   26  ls -l
+   27  mans_skripts.sh
+   28  echo $PATH
+   29  ls
+   30  ls -l /bin | grep ls
+   31  ls
+   32  echo $PATH
+   33  ls -l /bin | grep ls
+   34  pwd
+   35  PATH=$PATH:~
+   36  echo $PATH
+   37  PATH=$PATH:.
+   38  echo $PATH
+   39  mans_skripts.sh 
+   40  ls -l
+   41  mans_skripts.sh 
+   42  nano mans_skripts.sh 
+   43  cd
+   44  pwd
+   45  ls -l
+   46  pwd
+   47  ls -l
+   48  pwd
+   49  rm -r Mape/
+   50  ls -l
+   51  git clone https://github.com/tatusmatrix/RTR105
+   52  ls -l
+   53  mv mans_skripts.sh RTR105/
+   54  cd RTR105/
+   55  ls -l
+   56  nano README.md 
+   57  history
+   58  nano README.md 
+   59  pwd
+   60  cd ..
+   61  ls -l
+   62  git clone https://github.com/tatusmatrix/RTR105
+   63  ls -l
+   64  cd RTR105/
+   65  ls -l
+   66  pwd
+   67  ls
+   68  python
+   69  ipython
+   70  idle &
+   71  ls
+   72  ls -l
+   73  cat dgr_20181001a.py 
+   74  whereis python
+   75  ls -l
+   76  nano test_1.py
+   77  python test_1.py 
+   78  nano test_1.py
+   79  python test_1.py 
+   80  nano test_1.py
+   81  ./test_1.py
+   82  ls -l
+   83  chmod 764 test_1.py 
+   84  ./test_1.py 
+   85  nano test_1.py
+   86  python test_1.py 
+   87  idle test_1.py  &
+   88  nano test_1.py
+   89  python test_1.py 
+   90  ls -l
+   91  history > history_20181001b.txt 

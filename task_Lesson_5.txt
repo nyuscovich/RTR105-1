@@ -1,0 +1,11 @@
+1. Papildināt README.md lokāli ar nano
+
+un/vai
+
+2. Sakai sistēmā izmēģināt uzdevumus:
+Lessons -> Class 4
+Lessons -> Class 5
+
+Piemēri:
+http://www.cplusplus.com/reference/cstdio/printf/
+Sakai -> Lessons from PY4E -> Variables... -> Slides...
