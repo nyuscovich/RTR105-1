@@ -1,0 +1,24 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/tatusmatrix/RTR105
+    4  ls -l
+    5  cd RTR105/
+    6  pwd
+    7  python
+    8  ipython
+    9  idle &
+   10  ls
+   11  ls -l
+   12  cat dgr_20181001b.py 
+   13  nano test_1a.py
+   14  python test_1a.py 
+   15  nano test_1a.py
+   16  ls -l
+   17  ls -l | grep test*
+   18  ls -l  test*
+   19  ./test_1.py 
+   20  chmod 764 test_1a.py 
+   21  ls -l  test*
+   22  ./test_1a.py 
+   23  idle test_1a.py &
+   24  history > history_20181001c.txt
