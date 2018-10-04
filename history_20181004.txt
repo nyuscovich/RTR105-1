@@ -1,0 +1,30 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox &
+    4  chromium-browser &
+    5  git clone https://github.com/tatusmatrix/RTR105
+    6  ls -l
+    7  cd RTR105/
+    8  ls -l
+    9  pwd
+   10  nano dialogs.py
+   11  cat d
+   12  cat dialogs.py 
+   13  python dialogs.py 
+   14  nano dialogs.py
+   15  cat dialogs.py 
+   16  python2 dialogs.py 
+   17  cat dialogs.py 
+   18  python2.7 dialogs.py 
+   19  cat dialogs.py 
+   20  python dialogs.py 
+   21  nano dialogs.py
+   22  python
+   23  python dialogs.py 
+   24  nano dialogs.py
+   25  python dialogs.py 
+   26  python2
+   27  nano dialogs.py
+   28  cat dialogs.py 
+   29  python dialogs.py 
+   30  history > history_20181004.txt
