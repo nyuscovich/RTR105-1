@@ -6,8 +6,8 @@ a = input("Cien. liet., lūdzu, ievadi skaitli: ")
 # tapēc ievadītā lieluma datu tips vēlāk ir jāparveido
 a = int(a)
 
-# python valoda basltās uz C valodas => print strādā līdzīgi printf
+# python valoda balstās uz C valodas => print strādā līdzīgi printf
 # http://www.cplusplus.com/reference/cstdio/printf/
-print("Liet., Tu esi iavadījis skaitli: %d"%(a))
+print("Liet., Tu esi ievadījis skaitli: %d"%(a))
 aa = a * a
 print("Tavs skaitlis kvadrātā ir: %d"%(aa))
